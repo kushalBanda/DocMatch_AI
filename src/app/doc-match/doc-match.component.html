@@ -1,0 +1,207 @@
+<div *ngIf="responsespinner" class="loading-overlay">
+    <!-- You can use any spinner here -->
+    <mat-spinner></mat-spinner> <!-- Example using Angular Material Spinner -->
+  </div>
+
+<main class="main-container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light shadow">
+        <div class="container-fluid">
+            <a class="navbar-brand me-auto heading" href="#">
+                DocMatch
+            </a> 
+            <a href="https://amplelogic.com/" target="_blank"class="navbar-brand ms-auto" >
+                <img src="assets/logo1.png" style="width: fit-content;height: fit-content;" alt="Logo" width="30" height="30" class="d-inline-block align-text-top">
+            </a> 
+        </div>
+    </nav>
+  
+    <div class="container mt-4">
+        <div class="row d-flex justify-content-center mt-5">
+            <div class="col-md-4 " style="width: 50%;">
+                <div class="input-group">
+                    <input type="text" (keydown.enter)="sendData()" class="form-control me-2 rounded shadow" placeholder="Enter the path here" aria-label="User Input"   [(ngModel)]="inputPath" style="
+                        
+                        border-radius: 15px !important;"
+                     />
+                    <div class="input-group-append">
+                        <!-- <button type="button"  (click)="sendData()"  class="btn btn-info rounded-circle fw-bold shadow text-white " > <i class="pi pi-cloud-upload fw-bold"></i></button> -->
+                        <button (click)="sendData()">
+                            <div class="svg-wrapper-1">
+                              <div class="svg-wrapper">
+                                <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                  <path d="M0 0h24v24H0z" fill="none"></path>
+                                  <path d="M1.946 9.315c-.522-.174-.527-.455.01-.634l19.087-6.362c.529-.176.832.12.684.638l-5.454 19.086c-.15.529-.455.547-.679.045L12 14l6-8-8 6-8.054-2.685z" fill="currentColor"></path>
+                                </svg>
+                              </div>
+                            </div>
+                            <span>Send</span>
+                          </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div *ngIf="loader"  style="margin-left: auto;
+    margin-right: auto;
+    margin-top: 5rem;
+    width: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;" >
+       <div class="loader"></div>
+    </div>
+    <div *ngIf="selectFieldContainer" class="container mt-4">       
+        <div class="row d-flex justify-content-center mt-5">
+            <div class="col-md-3">
+                    <p-multiSelect 
+                    class="shadow"
+                    [style]="{'width': '100%','border-radius':'5px'}"
+                    [options]="company" 
+                    [(ngModel)]="data2.companies" 
+                    optionLabel="name" 
+                    optionValue="name"
+                    (onChange)="onCompanySelection($event)"
+                    placeholder="Select Site">   </p-multiSelect>
+            </div>
+            <div class="col-md-3">
+                <select class="form-control shadow" [(ngModel)]="data2.department" [style]="{'height': '100%'}">
+                <option value="">{{'Select Department'}}</option>
+                <option *ngFor="let litem of department" [value]="litem">
+                  {{litem}}</option>
+              </select>
+            </div>
+            <div class="col-md-3">
+                <div   [style]="{'height': '100%'}" class="input-group">
+                    <input type="text" class="form-control me-2 rounded shadow" placeholder="Enter Threshold" aria-label="User Input" (change)="parsethreshold($event)" />
+                </div>
+            </div>
+        </div>
+        <div class="row d-flex justify-content-center align-items-center mt-3">
+            
+            <button type="button" (click)="sendData2()" class="btn btn-success btn-lg btn-primary  fw-bold shadow text-white col-md-2 " style="justify-content: center;" >Submit</button>
+        </div>
+    </div>
+    <div>
+
+    </div>
+ 
+    <div class="mt-5 justify-content-center align-items-center">
+        <div *ngIf="spinner" class="spinner">
+            
+
+            <p>Just a moment, we're fetching your data!</p>
+            <p-progressSpinner  strokeWidth="4" [style]="{'height': '100%'}" ariaLabel="loading" ></p-progressSpinner>
+            <ngx-spinner bdColor="rgba(51, 51, 51, 0.8)" size="medium" color="#808080" type="BallTriangle" [fullScreen]="true"></ngx-spinner>
+        </div>
+
+        <p-tabView *ngIf="correctResponse" style="width: 100% ;justify-content: center;">
+           
+
+            <p-tabPanel *ngFor="let pair of companyPairs" [header]="pair">
+                <div class="row d-flex justify-content-center">
+                    <p-table [value]="segregatedObj[pair]" [tableStyle]="{ 'min-width': '50rem' }">
+                        <p>No Similarities found</p>
+                        <ng-template pTemplate="header">
+                            <tr>
+                                <th>File Name</th>
+                                <th>File Name</th>
+                                <th [style]="{'width': '15%'}">Similarity Score</th>
+                                <th [style]="{'width': '15%'}">Section Similarity</th>
+                                <th [style]="{'width': '15%'}"><p-text class="ms-5">Pdf Viewer</p-text></th>
+                            </tr>
+                        </ng-template>
+                        <ng-template pTemplate="body" let-product let-i="rowIndex">
+                            <tr>
+                                <td>{{product.file1 }}</td>
+                                <td>{{product.file2 }}</td>
+                                <td [style]="{'width': '15%'}"><span>{{ product.similarity_score }}</span></td>
+
+                                <td>
+                                    <p-button *ngIf="product.section_similarities" class="ms-5" (onClick)="toggleOverlay(product.section_similarities,product.uncommon_sections)" icon="pi pi-angle-right"></p-button>
+                                </td>   
+                                <td>
+                                    <p-button  class="ms-5 " (onClick)="viewPdf(product.file1,product.file2)" icon="pi pi-eye"></p-button>
+                                </td>
+                            </tr>
+                        </ng-template>
+                    </p-table>
+                </div> 
+            </p-tabPanel>
+            <p-tabPanel header= "Heatmap">
+                <app-pdf-viewer-popup [docsdata] = "docdata" ></app-pdf-viewer-popup>
+            </p-tabPanel>
+        </p-tabView>
+        <p-sidebar [(visible)]="overlayVisibility" [style]="{'width': '50%'}">
+            <h3>Section Similarities</h3>
+                <div class="row d-flex justify-content-center">
+                    <p-table [value]="similarity_keys" [tableStyle]="{ 'width': '100%' }">
+                        <ng-template pTemplate="header">
+                            <tr>
+                                <th>Section Heading</th>
+                                <th>Similarity Score</th>
+                        </tr>   
+                        </ng-template>
+                        <ng-template pTemplate="body" let-product let-i="rowIndex">
+                            <tr>
+                                <td>{{product}}</td>
+                                <td>{{similarityObj[product]}}</td>
+                            </tr>
+                        </ng-template>
+                    </p-table>  
+                </div>  
+                
+                <br>
+                <h3>Uncommon_Sections</h3>
+                <div class="row d-flex justify-content-center">
+                    <p-table [value]="Uncommon_keys" [tableStyle]="{ 'width': '100%' }">
+                        <ng-template pTemplate="header">
+                            <tr>
+                                <th>File1</th>
+                                <th>File2</th>
+                        </tr>   
+                        </ng-template>
+                        <ng-template pTemplate="body"  >
+                            <tr>
+                                <td>{{uncommonSection.file1}}</td>
+                                <td>{{uncommonSection.file2}}</td>
+                            </tr>
+                        </ng-template>
+                    </p-table>  
+                </div>  
+        </p-sidebar>
+    </div>
+    
+</main>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <main>
+    <div class="row">
+        <div class="input-group col-md-6">
+            <input  class="form-control" placeholder="Enter text here" id= "directory-upload" aria-label="User Input"  type="text" (change)="onDirectorySelected($event)"/>
+            <label for="directory-upload" class="btn btn-info  text-white fw-bold shadow"  >
+                <i class="pi pi-upload fw-bold me-2"></i>Choose
+            </label>
+        </div>
+    </div>
+
+</main> -->
+
+
+<!-- 
+<div class="directory-input-container d-flex justify-content-center mt-5">
+<div>
+    <button type="button" class="btn btn-info rounded-circle fw-bold shadow text-white" > <i class="pi pi-cloud-upload fw-bold"></i></button>
+    <button type="button" class="btn btn-danger rounded-circle fw-bold shadow"> <i class="pi pi-times fw-bold"></i></button>
+</div> -->

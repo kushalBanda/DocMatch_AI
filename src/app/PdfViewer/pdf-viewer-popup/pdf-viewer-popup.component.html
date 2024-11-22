@@ -1,0 +1,8 @@
+<div>
+  <img [src]="heatmapSrc" alt="Heatmap">
+  <ul>
+    <li *ngFor="let entry of getDocumentEntries()">
+      <strong>{{ entry[0] }}:</strong> {{ entry[1] }}
+    </li>
+  </ul>
+</div>

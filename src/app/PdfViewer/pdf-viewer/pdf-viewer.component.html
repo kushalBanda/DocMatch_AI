@@ -1,0 +1,60 @@
+<button class="button" (click)="Close()">
+    <span class="X"></span>
+    <span class="Y"></span>
+    <div class="close">Close</div>
+  </button>
+
+  <div class="split-view">
+    <div class="pdf-container" >
+      <embed  [src]="pdfSrc1" type="application/pdf" class="pdf-content"/>
+    </div>
+    <div class="pdf-container">
+      <embed [src]="pdfSrc2" type="application/pdf" class="pdf-content"/>
+    </div>
+  </div>
+
+<!-- <div class="split-view">
+    <div class="pdf-container"  #pdfContainer>
+      <div style="position: relative;">
+        <nav aria-label="Page navigation example">
+          <ul class="pagination justify-content-center">
+            <li class="page-item">
+              <a class="page-link"   (click)="previousPage('pdf1')">Previous</a>
+            </li> 
+            <li class="page-item">
+              <a class="page-link" (click)="nextPage('pdf1')">Next</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+      
+       <div class="canvas-container">
+        <canvas #pdfCanvas1 class="pdf-content"></canvas>
+       <canvas #highlightCanvas1 class="highlight-content"></canvas>
+       </div>
+
+      
+    </div>
+    <div class="pdf-container"  #pdfContainer>
+      <div style="position: relative;">
+        <nav aria-label="Page navigation example">
+          <ul class="pagination justify-content-center">
+            <li class="page-item">
+              <a class="page-link"   (click)="previousPage('pdf2')">Previous</a>
+            </li> 
+            <li class="page-item">
+              <a class="page-link" (click)="nextPage('pdf2')">Next</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+      
+     <div class="canvas-container">
+      <canvas #pdfCanvas2 class="pdf-content"></canvas>
+     <canvas #highlightCanvas2 class="highlight-content"></canvas>
+     </div>
+
+     
+    </div>
+  </div>
+   -->

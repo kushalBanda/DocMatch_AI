@@ -1,0 +1,12 @@
+numpy
+Pillow
+pymupdf4llm
+scikit-learn
+pdf2image
+PyPDF2
+regex
+sentence_transformers
+matplotlib
+PyMuPDF
+fastapi
+uvicorn

@@ -1,0 +1,899 @@
+{
+    "**1.0** **OBJECTIVE**": {
+        "section": "**1.0** **OBJECTIVE**",
+        "modified_points": [
+            {
+                "old": "The objective of this SOP is to carry out Calibration of Instrument by External Agencies of all departments except weighing balances and analytical instrument from outside approved lab and to lay down a procedure for development the new external calibration agency, performance evaluation of  **Contract**  .",
+                "new": "To describe a procedure for preventive maintenance of Fluid Bed Dryer."
+            }
+        ],
+        "added_points": [],
+        "removed_points": []
+    },
+    "**2.0** **SCOPE**": {
+        "section": "**2.0** **SCOPE**",
+        "modified_points": [
+            {
+                "old": "This procedure is applicable for calibration of all types of instruments of all departments installed except weighing balances and analytical instrument, for approval and performance evaluation of external calibration agency in General Block at Acme Formulation Pvt.",
+                "new": "This SOP is applicable for preventive maintenance of Fluid Bed Dryer installed in Sex  Hormone Block at ACME Formulation Pvt."
+            }
+        ],
+        "added_points": [],
+        "removed_points": []
+    },
+    "**3.0** **RESPONSIBILITY**": {
+        "section": "**3.0** **RESPONSIBILITY**",
+        "modified_points": [
+            {
+                "old": "**3.1** **Engineering Department**  3.1.1 Responsible for the preparation of Calibration Instrument Master List.",
+                "new": ""
+            },
+            {
+                "old": "3.1.2 Responsible for the preparation of Instrument Calibration Planner.",
+                "new": ""
+            },
+            {
+                "old": "3.1.3 Responsible for development the new external calibration agency.",
+                "new": ""
+            },
+            {
+                "old": "3.1.4 Responsible for provide questionnaire to external lab.",
+                "new": ""
+            },
+            {
+                "old": "3.1.5 Responsible for performance evaluation of external calibration agency.",
+                "new": ""
+            },
+            {
+                "old": "3.1.6 Responsible for the execution of calibration activity in coordination with external agencies as  per yearly planner.",
+                "new": ""
+            },
+            {
+                "old": "3.1.7 Responsible for maintaining and updation of calibration planner.",
+                "new": ""
+            },
+            {
+                "old": "3.1.8 Responsible for the verification of calibration reports/certificates provided by external  agencies.",
+                "new": ""
+            },
+            {
+                "old": "3.1.9 Responsible for maintaining the out of calibration/ replacement record.",
+                "new": ""
+            }
+        ],
+        "added_points": [],
+        "removed_points": [
+            "3.1.2 Responsible for the preparation of Instrument Calibration Planner.",
+            "3.1.3 Responsible for development the new external calibration agency.",
+            "3.1.4 Responsible for provide questionnaire to external lab.",
+            "3.1.5 Responsible for performance evaluation of external calibration agency.",
+            "3.1.6 Responsible for the execution of calibration activity in coordination with external agencies as  per yearly planner.",
+            "3.1.7 Responsible for maintaining and updation of calibration planner.",
+            "3.1.8 Responsible for the verification of calibration reports/certificates provided by external  agencies.",
+            "3.1.9 Responsible for maintaining the out of calibration/ replacement record."
+        ]
+    },
+    "**3.2** **External Calibration Agencies**": {
+        "section": "**3.2** **External Calibration Agencies**",
+        "modified_points": [
+            {
+                "old": "3.2.1 Responsible for providing calibration procedure of instruments before the execution.",
+                "new": ""
+            },
+            {
+                "old": "3.2.2 Responsible for providing raw data of the calibrated instrument on the same day of execution.",
+                "new": ""
+            },
+            {
+                "old": "3.2.3 Responsible for the calibration of Instrument/Equipment as per schedule provided by  engineering department.",
+                "new": ""
+            },
+            {
+                "old": "3.2.4 Responsible for affixing calibration tag on calibrated instrument.",
+                "new": ""
+            },
+            {
+                "old": "3.2.5 Responsible for providing calibration reports/ certificates to engineering department after  calibration.",
+                "new": ""
+            },
+            {
+                "old": "**Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SSSOOOPPP fffooorrr Calibration of Instrument by External Agencies|| |SSSOOOPPP NNNooo...::: SOP/EG/003 Version No.: E1 Page 2 of 23|| |EEEEffffffffeeeeccccttttiiiivvvveeee DDDDaaaatttteeee:::: 20/01/21|Review Date: 20/01/23|",
+                "new": ""
+            }
+        ],
+        "added_points": [],
+        "removed_points": [
+            "3.2.2 Responsible for providing raw data of the calibrated instrument on the same day of execution.",
+            "3.2.3 Responsible for the calibration of Instrument/Equipment as per schedule provided by  engineering department.",
+            "3.2.4 Responsible for affixing calibration tag on calibrated instrument.",
+            "3.2.5 Responsible for providing calibration reports/ certificates to engineering department after  calibration.",
+            "**Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SSSOOOPPP fffooorrr Calibration of Instrument by External Agencies|| |SSSOOOPPP NNNooo...::: SOP/EG/003 Version No.: E1 Page 2 of 23|| |EEEEffffffffeeeeccccttttiiiivvvveeee DDDDaaaatttteeee:::: 20/01/21|Review Date: 20/01/23|"
+        ]
+    },
+    "**3.3** **Quality Assurance Department**": {
+        "section": "**3.3** **Quality Assurance Department**",
+        "modified_points": [
+            {
+                "old": "3.3.1 Responsible for the approval of Calibration Instrument Master List and Calibration Instrument  Planner.",
+                "new": ""
+            },
+            {
+                "old": "3.3.2 Responsible for performance evaluation of external calibration agency.",
+                "new": ""
+            },
+            {
+                "old": "3.3.3 QA manager/designee shall be responsible for audit management, review of audit finding,  audit report, audit compliance and other related activities in EQMS.",
+                "new": ""
+            },
+            {
+                "old": "3.3.4 QA Head shall be responsible for compliance review, final approval/rejection, contract  agreement and other approval activities in EQMS.",
+                "new": ""
+            },
+            {
+                "old": "3.3.5 Responsible as witness at the time of execution of calibration activity.",
+                "new": ""
+            },
+            {
+                "old": "3.3.6 Responsible for the verification and approving of Calibration reports/ certificates provided by  engineering department.",
+                "new": ""
+            },
+            {
+                "old": "3.3.7 Responsible for preserving of original calibration reports/ certificates.",
+                "new": ""
+            },
+            {
+                "old": "3.3.8 Responsible for the issuance of calibration reports/ certificates copy to user department.",
+                "new": ""
+            }
+        ],
+        "added_points": [],
+        "removed_points": [
+            "3.3.2 Responsible for performance evaluation of external calibration agency.",
+            "3.3.3 QA manager/designee shall be responsible for audit management, review of audit finding,  audit report, audit compliance and other related activities in EQMS.",
+            "3.3.4 QA Head shall be responsible for compliance review, final approval/rejection, contract  agreement and other approval activities in EQMS.",
+            "3.3.5 Responsible as witness at the time of execution of calibration activity.",
+            "3.3.6 Responsible for the verification and approving of Calibration reports/ certificates provided by  engineering department.",
+            "3.3.7 Responsible for preserving of original calibration reports/ certificates.",
+            "3.3.8 Responsible for the issuance of calibration reports/ certificates copy to user department."
+        ]
+    },
+    "**4.0** **ACCOUNTABILITY**": {
+        "section": "**4.0** **ACCOUNTABILITY**",
+        "modified_points": [
+            {
+                "old": "Head Engineering and Head QA shall be accountable for the compliance of this SOP.",
+                "new": "Head Engineering and Head Quality Assurance shall be accountable for the compliance of  this SOP"
+            }
+        ],
+        "added_points": [],
+        "removed_points": []
+    },
+    "**5.0** **PROCEDURE**": {
+        "section": "**5.0** **PROCEDURE**",
+        "modified_points": [
+            {
+                "old": "**5.1** **DEFINITIONS:**  5.1.1 **Calibration: The demonstration that an instrument or device produces results within specified**  limits when compared to those produced by a reference standard or a standard which is traceable to a national or international standard, over an appropriate range of measurements.",
+                "new": "**5.1** **Definition:**  5.1.1 **FBD: Fluidized bed dryer is well known and widely used equipment in granulation area of the**  pharmaceutical manufacturing."
+            },
+            {
+                "old": "5.1.2 **Contract external calibration agency: Contract calibration agency means a third party**  agency to perform the calibration of instrument and equipments.",
+                "new": "It is used in granulation process for drying the material to get  desired moisture content in the tablets formulation granules required for perfect compression  of tablets."
+            },
+            {
+                "old": "5.1.3 **Technical Agreement -** A binding agreement that is mutually negotiated and concluded  between a Contract Giver and a Contract Acceptor.",
+                "new": ""
+            },
+            {
+                "old": "It is intended to define, in a formalized manner, responsibilities relative to the tasks to be done with the business objective of being a service or product supplier.",
+                "new": ""
+            },
+            {
+                "old": "It may also include various commitments between the parties.",
+                "new": ""
+            }
+        ],
+        "added_points": [],
+        "removed_points": [
+            "5.1.3 **Technical Agreement -** A binding agreement that is mutually negotiated and concluded  between a Contract Giver and a Contract Acceptor.",
+            "It is intended to define, in a formalized manner, responsibilities relative to the tasks to be done with the business objective of being a service or product supplier.",
+            "It may also include various commitments between the parties."
+        ]
+    },
+    "**5.3** **Preparation of Master Equipment/ Instrument List to be Calibrated**": {
+        "section": "**5.3** **Preparation of Master Equipment/ Instrument List to be Calibrated**",
+        "modified_points": [
+            {
+                "old": "5.3.1 List of Equipment / Instruments to be calibrated through External Agency shall be prepared by  engineering department in coordination with concerned department as per current version   **Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SSSOOOPPP fffooorrr Calibration of Instrument by External Agencies|| |SSSOOOPPP NNNooo...::: SOP/EG/003 Version No.: E1 Page 3 of 23|| |EEEEffffffffeeeeccccttttiiiivvvveeee DDDDaaaatttteeee:::: 20/01/21|Review Date: 20/01/23|   format EG003/F01 for Master Instrument List and same shall be checked by engineering department for its correctness.",
+                "new": ""
+            },
+            {
+                "old": "Master Instrument List shall be prepared department wise along with the year.",
+                "new": ""
+            },
+            {
+                "old": "This list shall specify name of equipment, its identification No., location, Instrument name along with its identification number, make, model range and frequency of calibration.",
+                "new": ""
+            },
+            {
+                "old": "5.3.2 Engineering department shall forward the list of Equipment / Instruments to QA department  for approval.",
+                "new": ""
+            },
+            {
+                "old": "QA-Head/designee shall be responsible for the approval of master list.",
+                "new": ""
+            },
+            {
+                "old": "After approval of Master Equipment/ Instrument List shall be preserved in QA and a copy of approved Master Instrument List shall be issued to engineering department as per current version SOP for Document Control Procedure (SOP/QA/002).",
+                "new": ""
+            },
+            {
+                "old": "5.3.3 Master Equipment/ Instrument List shall be prepared on yearly basis prior to the preparation of  instrument calibration planner.",
+                "new": ""
+            },
+            {
+                "old": "Master Instrument List shall be prepared in the last week of December month of current year or 1st week of January next calendar year.",
+                "new": ""
+            },
+            {
+                "old": "5.3.4 In case of new Equipment / Instruments is to be installed or transferred in or from facility than  Equipment/  issued to concerned department only after approval from QA-Head/designee.",
+                "new": ""
+            },
+            {
+                "old": "5.3.5 All the instruments mentioned in addendum to master list shall be merged in the Master  Equipment/ Instrument List at the time of preparation.",
+                "new": ""
+            }
+        ],
+        "added_points": [],
+        "removed_points": [
+            "Master Instrument List shall be prepared department wise along with the year.",
+            "This list shall specify name of equipment, its identification No., location, Instrument name along with its identification number, make, model range and frequency of calibration.",
+            "5.3.2 Engineering department shall forward the list of Equipment / Instruments to QA department  for approval.",
+            "QA-Head/designee shall be responsible for the approval of master list.",
+            "After approval of Master Equipment/ Instrument List shall be preserved in QA and a copy of approved Master Instrument List shall be issued to engineering department as per current version SOP for Document Control Procedure (SOP/QA/002).",
+            "5.3.3 Master Equipment/ Instrument List shall be prepared on yearly basis prior to the preparation of  instrument calibration planner.",
+            "Master Instrument List shall be prepared in the last week of December month of current year or 1st week of January next calendar year.",
+            "5.3.4 In case of new Equipment / Instruments is to be installed or transferred in or from facility than  Equipment/  issued to concerned department only after approval from QA-Head/designee.",
+            "5.3.5 All the instruments mentioned in addendum to master list shall be merged in the Master  Equipment/ Instrument List at the time of preparation."
+        ]
+    },
+    "**5.4** **Preparation of Equipment/** **Instrument Calibration Planner**": {
+        "section": "**5.4** **Preparation of Equipment/** **Instrument Calibration Planner**",
+        "modified_points": [
+            {
+                "old": "5.4.1 An Equipment/ Instrument calibration planner shall be prepared by Engineering department on  yearly basis by the last week of December month of current year or 1st week of January next calendar year.",
+                "new": ""
+            },
+            {
+                "old": "5.4.2 Equipment/ Instrument calibration planner shall be prepared by engineering department in  coordination with concerned department as per current version format EG003/F02 for Instrument calibration planner and same shall be checked by engineering department for its correctness.",
+                "new": ""
+            },
+            {
+                "old": "An Instrument calibration planner shall be specifying the equipment / instrument name, identification number, location, calibration done on, next calibration due on, certificate no.",
+                "new": ""
+            },
+            {
+                "old": "etc.",
+                "new": ""
+            },
+            {
+                "old": "5.4.3 Engineering department shall forward this Equipment/ Instrument calibration planner to QA  for approval.",
+                "new": ""
+            },
+            {
+                "old": "QA-Head/designee shall be responsible for the approval of Equipment/ Instrument calibration planner.",
+                "new": ""
+            },
+            {
+                "old": "After approval of Equipment/ Instrument calibration planner shall be preserved in QA and a copy of approved Equipment/ Instrument calibration planner shall be issued to engineering department as per current version SOP for Document control procedure (SOP/QA/002).",
+                "new": ""
+            },
+            {
+                "old": "5.4.4 In case of new Equipment / Instruments is to be installed or transferred in or from the facility  Equipment/ Instrument calibration  same shall be issued to concerned department only after approval from QA-Head/designee.",
+                "new": ""
+            },
+            {
+                "old": "**Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SSSOOOPPP fffooorrr Calibration of Instrument by External Agencies|| |SSSOOOPPP NNNooo...::: SOP/EG/003 Version No.: E1 Page 4 of 23|| |EEEEffffffffeeeeccccttttiiiivvvveeee DDDDaaaatttteeee:::: 20/01/21|Review Date: 20/01/23|   5.4.5 All the instruments mentioned in addendum to the Equipment/ Instrument calibration planner  shall be merged in the Equipment/ Instrument calibration planner at the time of preparation.",
+                "new": ""
+            }
+        ],
+        "added_points": [],
+        "removed_points": [
+            "5.4.2 Equipment/ Instrument calibration planner shall be prepared by engineering department in  coordination with concerned department as per current version format EG003/F02 for Instrument calibration planner and same shall be checked by engineering department for its correctness.",
+            "An Instrument calibration planner shall be specifying the equipment / instrument name, identification number, location, calibration done on, next calibration due on, certificate no.",
+            "etc.",
+            "5.4.3 Engineering department shall forward this Equipment/ Instrument calibration planner to QA  for approval.",
+            "QA-Head/designee shall be responsible for the approval of Equipment/ Instrument calibration planner.",
+            "After approval of Equipment/ Instrument calibration planner shall be preserved in QA and a copy of approved Equipment/ Instrument calibration planner shall be issued to engineering department as per current version SOP for Document control procedure (SOP/QA/002).",
+            "5.4.4 In case of new Equipment / Instruments is to be installed or transferred in or from the facility  Equipment/ Instrument calibration  same shall be issued to concerned department only after approval from QA-Head/designee.",
+            "**Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SSSOOOPPP fffooorrr Calibration of Instrument by External Agencies|| |SSSOOOPPP NNNooo...::: SOP/EG/003 Version No.: E1 Page 4 of 23|| |EEEEffffffffeeeeccccttttiiiivvvveeee DDDDaaaatttteeee:::: 20/01/21|Review Date: 20/01/23|   5.4.5 All the instruments mentioned in addendum to the Equipment/ Instrument calibration planner  shall be merged in the Equipment/ Instrument calibration planner at the time of preparation."
+        ]
+    },
+    "**5.5** **Calibration of Equipment/** **Instrument by External Agencies**": {
+        "section": "**5.5** **Calibration of Equipment/** **Instrument by External Agencies**",
+        "modified_points": [
+            {
+                "old": "5.5.1 Engineering person shall co-ordinate with outside calibration agency to calibrate the  Equipment/ Instrument as per approved calibration planner.",
+                "new": ""
+            },
+            {
+                "old": "5.5.2 After verification of traceability of master instruments by concern engineering personnel the  external agency shall perform the calibration activity.",
+                "new": ""
+            },
+            {
+                "old": "5.5.3 After successful calibration, calibration tag contained in a water proof pouch should be affixed  on particular instrument/equipment and affix tamper proof seal on instrument wherever applicable.",
+                "new": ""
+            },
+            {
+                "old": "5.5.4 Specimen for the tamper proof seal should be mentioned as below.",
+                "new": ""
+            },
+            {
+                "old": "ZERO  SETTING  5.5.5 Signature of engineering department shall be done on tamper proof seal at the time of pasting  of tamper proof seal on calibrated instrument / devices.",
+                "new": ""
+            },
+            {
+                "old": "5.5.6 External agency should provide the calibration certificate after completion of calibration  activity.",
+                "new": ""
+            },
+            {
+                "old": "Certificates shall be reviewed by engineering department with reviewed stamp in blue color duly sign and dated and then submit to QA department.",
+                "new": ""
+            }
+        ],
+        "added_points": [],
+        "removed_points": [
+            "5.5.2 After verification of traceability of master instruments by concern engineering personnel the  external agency shall perform the calibration activity.",
+            "5.5.3 After successful calibration, calibration tag contained in a water proof pouch should be affixed  on particular instrument/equipment and affix tamper proof seal on instrument wherever applicable.",
+            "5.5.4 Specimen for the tamper proof seal should be mentioned as below.",
+            "ZERO  SETTING  5.5.5 Signature of engineering department shall be done on tamper proof seal at the time of pasting  of tamper proof seal on calibrated instrument / devices.",
+            "5.5.6 External agency should provide the calibration certificate after completion of calibration  activity.",
+            "Certificates shall be reviewed by engineering department with reviewed stamp in blue color duly sign and dated and then submit to QA department."
+        ]
+    },
+    "**5.6** **Out of Calibration**": {
+        "section": "**5.6** **Out of Calibration**",
+        "modified_points": [
+            {
+                "old": "5.6.1 If the instrument / equipment fail it shall be replace / repair.",
+                "new": ""
+            },
+            {
+                "old": "In such case Executive / Officer  Engineering shall inform the same to the Head of concerned department, who in turn along with Head of Quality Assurance shall investigate the effect of this failure on production and quality made in between the date of failure and earlier date of calibration.",
+                "new": ""
+            },
+            {
+                "old": "Quality Assurance shall maintain the report of above activity.",
+                "new": ""
+            },
+            {
+                "old": "5.6.2 In case of instrument found out of calibration / replacement and faulty than same shall be  recorded as per current version format no.",
+                "new": ""
+            },
+            {
+                "old": "EG003/F03 and EG003/F04 respectively.",
+                "new": ""
+            },
+            {
+                "old": "5.6.3 The instrument should be replaced is of same specifications and in-house identification  number shall be continued.",
+                "new": ""
+            }
+        ],
+        "added_points": [],
+        "removed_points": [
+            "In such case Executive / Officer  Engineering shall inform the same to the Head of concerned department, who in turn along with Head of Quality Assurance shall investigate the effect of this failure on production and quality made in between the date of failure and earlier date of calibration.",
+            "Quality Assurance shall maintain the report of above activity.",
+            "5.6.2 In case of instrument found out of calibration / replacement and faulty than same shall be  recorded as per current version format no.",
+            "EG003/F03 and EG003/F04 respectively.",
+            "5.6.3 The instrument should be replaced is of same specifications and in-house identification  number shall be continued."
+        ]
+    },
+    "**5.7** **Handling procedure for external calibration agency in EQMS**": {
+        "section": "**5.7** **Handling procedure for external calibration agency in EQMS**",
+        "modified_points": [
+            {
+                "old": "**5.7.1** **External calibration agency handling procedure**  5.7.1.1 Engineering person shall login the EQMS and click on the Contract Analytical Lab and  External Calibration Agency i.e.",
+                "new": ""
+            },
+            {
+                "old": "CLEA header then click on add button for initiation.",
+                "new": ""
+            },
+            {
+                "old": "Engineering user shall initiate the activity whether New external calibration agency or Performance evaluation of Lab whichever is required.",
+                "new": ""
+            },
+            {
+                "old": "**Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SSSOOOPPP fffooorrr Calibration of Instrument by External Agencies|| |SSSOOOPPP NNNooo...::: SOP/EG/003 Version No.: E1 Page 5 of 23|| |EEEEffffffffeeeeccccttttiiiivvvveeee DDDDaaaatttteeee:::: 20/01/21|Review Date: 20/01/23|   5.7.1.2 Engineering head shall give review comments for requirement of questionnaire from the  external calibration agency.",
+                "new": ""
+            },
+            {
+                "old": "5.7.1.3 Engineering user shall review the questionnaire and other attachments which were  procured from external calibration agency as per current version of Format No.",
+                "new": ""
+            },
+            {
+                "old": "EG003/F05.",
+                "new": ""
+            },
+            {
+                "old": "5.7.1.4 Head Engineering shall approve, initiate audit or rejection the activity based on the  external calibration agency Questionnaire and supporting documents.",
+                "new": ""
+            },
+            {
+                "old": "5.7.1.5 If Head Engineering shall give approval comments then next audit date and review date  along with approval comment displayed on the screen.",
+                "new": ""
+            },
+            {
+                "old": "5.7.1.6 If Head Engineering shall give rejection comments then rejection and review comments  displayed on the screen.",
+                "new": ""
+            },
+            {
+                "old": "5.7.1.7 If Head Engineering shall click on initiate audit then review comments for audit initiation  and activity go to QA person.",
+                "new": ""
+            },
+            {
+                "old": "5.7.1.8 If information provided found satisfactory, then a site audit shall be conducted by  competent technical staff or team of QA.",
+                "new": ""
+            },
+            {
+                "old": "5.7.1.9 QA Manager/designee shall be responsible for the initiation of audit like audit schedule,  selection of auditor, audit date etc and further procedure for the execution and compliance of audit shall be followed as per SOP for handling of Contract Lab  5.7.1.10A Technical Agreement shall be made between all approved external agencies and  organization as per format no.",
+                "new": ""
+            },
+            {
+                "old": "EG003/F06.",
+                "new": ""
+            },
+            {
+                "old": "5.7.1.11Version No.",
+                "new": ""
+            },
+            {
+                "old": "of Technical Agreement for each external agency shall start from 00 and so  on.",
+                "new": ""
+            },
+            {
+                "old": "5.7.1.12The respective Department Head or designee in coordination with contract service  provider shall initiate a Technical Agreement (TA) between organization and the external agency.",
+                "new": ""
+            },
+            {
+                "old": "**5.7.2** **Performance evaluation of Agency**  5.7.2.1 Performance evaluation of agency shall be done by engineering/ QA user based on the  requirement.",
+                "new": ""
+            },
+            {
+                "old": "5.7.2.2 User shall select the approved agency for performance evaluation.",
+                "new": ""
+            },
+            {
+                "old": "5.7.2.3 Refer steps 5.7.1.3 to 5.7.1.9 for further processing.",
+                "new": ""
+            },
+            {
+                "old": "**5.7.3** **CLEA Graphical reports**  5.7.3.1 Engineering user shall click on the CLEA report under the header of contract lab.",
+                "new": ""
+            },
+            {
+                "old": "The user  will be redirected to the CLEA graphical reports home page which is a dynamic report and   **Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SSSOOOPPP fffooorrr Calibration of Instrument by External Agencies|| |SSSOOOPPP NNNooo...::: SOP/EG/003 Version No.: E1 Page 6 of 23|| |EEEEffffffffeeeeccccttttiiiivvvveeee DDDDaaaatttteeee:::: 20/01/21|Review Date: 20/01/23|   the user shall have the privilege to set the report, they want to see.",
+                "new": ""
+            },
+            {
+                "old": "At the left side of the screen two icons will appear.",
+                "new": ""
+            },
+            {
+                "old": "5.7.3.2 The mouse will hover on Gear Icon and click on settings.",
+                "new": ""
+            },
+            {
+                "old": "5.7.3.3 Tool bar will appear with the graphs.",
+                "new": ""
+            },
+            {
+                "old": "5.7.3.4 The dragged graph will appear in the screen.",
+                "new": ""
+            },
+            {
+                "old": "5.7.3.5 The report will appear on the basis of the existing data as per the selected format.",
+                "new": ""
+            },
+            {
+                "old": "5.7.3.6 Graphical representation will appear on the screen as per toolbar option like month and  year wise, audit initiated wise record, Approved/discontinued/Terminated, Number of New lab Qualified/Performance, Number of new agency qualified/performance.",
+                "new": ""
+            },
+            {
+                "old": "**Flow chart of External Calibration Agency**   **Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SSSOOOPPP fffooorrr Calibration of Instrument by External Agencies|| |SSSOOOPPP NNNooo...::: SOP/EG/003 Version No.: E1 Page 7 of 23|| |EEEEffffffffeeeeccccttttiiiivvvveeee DDDDaaaatttteeee:::: 20/01/21|Review Date: 20/01/23|",
+                "new": ""
+            }
+        ],
+        "added_points": [],
+        "removed_points": [
+            "CLEA header then click on add button for initiation.",
+            "Engineering user shall initiate the activity whether New external calibration agency or Performance evaluation of Lab whichever is required.",
+            "**Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SSSOOOPPP fffooorrr Calibration of Instrument by External Agencies|| |SSSOOOPPP NNNooo...::: SOP/EG/003 Version No.: E1 Page 5 of 23|| |EEEEffffffffeeeeccccttttiiiivvvveeee DDDDaaaatttteeee:::: 20/01/21|Review Date: 20/01/23|   5.7.1.2 Engineering head shall give review comments for requirement of questionnaire from the  external calibration agency.",
+            "5.7.1.3 Engineering user shall review the questionnaire and other attachments which were  procured from external calibration agency as per current version of Format No.",
+            "EG003/F05.",
+            "5.7.1.4 Head Engineering shall approve, initiate audit or rejection the activity based on the  external calibration agency Questionnaire and supporting documents.",
+            "5.7.1.5 If Head Engineering shall give approval comments then next audit date and review date  along with approval comment displayed on the screen.",
+            "5.7.1.6 If Head Engineering shall give rejection comments then rejection and review comments  displayed on the screen.",
+            "5.7.1.7 If Head Engineering shall click on initiate audit then review comments for audit initiation  and activity go to QA person.",
+            "5.7.1.8 If information provided found satisfactory, then a site audit shall be conducted by  competent technical staff or team of QA.",
+            "5.7.1.9 QA Manager/designee shall be responsible for the initiation of audit like audit schedule,  selection of auditor, audit date etc and further procedure for the execution and compliance of audit shall be followed as per SOP for handling of Contract Lab  5.7.1.10A Technical Agreement shall be made between all approved external agencies and  organization as per format no.",
+            "EG003/F06.",
+            "5.7.1.11Version No.",
+            "of Technical Agreement for each external agency shall start from 00 and so  on.",
+            "5.7.1.12The respective Department Head or designee in coordination with contract service  provider shall initiate a Technical Agreement (TA) between organization and the external agency.",
+            "**5.7.2** **Performance evaluation of Agency**  5.7.2.1 Performance evaluation of agency shall be done by engineering/ QA user based on the  requirement.",
+            "5.7.2.2 User shall select the approved agency for performance evaluation.",
+            "5.7.2.3 Refer steps 5.7.1.3 to 5.7.1.9 for further processing.",
+            "**5.7.3** **CLEA Graphical reports**  5.7.3.1 Engineering user shall click on the CLEA report under the header of contract lab.",
+            "The user  will be redirected to the CLEA graphical reports home page which is a dynamic report and   **Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SSSOOOPPP fffooorrr Calibration of Instrument by External Agencies|| |SSSOOOPPP NNNooo...::: SOP/EG/003 Version No.: E1 Page 6 of 23|| |EEEEffffffffeeeeccccttttiiiivvvveeee DDDDaaaatttteeee:::: 20/01/21|Review Date: 20/01/23|   the user shall have the privilege to set the report, they want to see.",
+            "At the left side of the screen two icons will appear.",
+            "5.7.3.2 The mouse will hover on Gear Icon and click on settings.",
+            "5.7.3.3 Tool bar will appear with the graphs.",
+            "5.7.3.4 The dragged graph will appear in the screen.",
+            "5.7.3.5 The report will appear on the basis of the existing data as per the selected format.",
+            "5.7.3.6 Graphical representation will appear on the screen as per toolbar option like month and  year wise, audit initiated wise record, Approved/discontinued/Terminated, Number of New lab Qualified/Performance, Number of new agency qualified/performance.",
+            "**Flow chart of External Calibration Agency**   **Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SSSOOOPPP fffooorrr Calibration of Instrument by External Agencies|| |SSSOOOPPP NNNooo...::: SOP/EG/003 Version No.: E1 Page 7 of 23|| |EEEEffffffffeeeeccccttttiiiivvvveeee DDDDaaaatttteeee:::: 20/01/21|Review Date: 20/01/23|"
+        ]
+    },
+    "**5.8** **Identification and Frequency**": {
+        "section": "**5.8** **Identification and Frequency**",
+        "modified_points": [
+            {
+                "old": "5.8.1 Critical instruments are those which have direct impact on the quality of product.",
+                "new": ""
+            },
+            {
+                "old": "5.8.2 Non-critical instruments are those which do not have any direct impact on the quality of  product.",
+                "new": ""
+            },
+            {
+                "old": "**Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SSSOOOPPP fffooorrr Calibration of Instrument by External Agencies|| |SSSOOOPPP NNNooo...::: SOP/EG/003 Version No.: E1 Page 8 of 23|| |EEEEffffffffeeeeccccttttiiiivvvveeee DDDDaaaatttteeee:::: 20/01/21|Review Date: 20/01/23|   5.8.3 Critical instruments Half yearly (-30 days) or as per need identified by engineering or user  department.",
+                "new": ""
+            },
+            {
+                "old": "5.8.4 Non-critical instruments - Yearly (-30 days) or as per need identified by engineering or user  department.",
+                "new": ""
+            }
+        ],
+        "added_points": [],
+        "removed_points": [
+            "5.8.2 Non-critical instruments are those which do not have any direct impact on the quality of  product.",
+            "**Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SSSOOOPPP fffooorrr Calibration of Instrument by External Agencies|| |SSSOOOPPP NNNooo...::: SOP/EG/003 Version No.: E1 Page 8 of 23|| |EEEEffffffffeeeeccccttttiiiivvvveeee DDDDaaaatttteeee:::: 20/01/21|Review Date: 20/01/23|   5.8.3 Critical instruments Half yearly (-30 days) or as per need identified by engineering or user  department.",
+            "5.8.4 Non-critical instruments - Yearly (-30 days) or as per need identified by engineering or user  department."
+        ]
+    },
+    "**5.9** **Preservation of Calibration certificate**": {
+        "section": "**5.9** **Preservation of Calibration certificate**",
+        "modified_points": [
+            {
+                "old": "Original Calibration certificate shall be preserved in the QA department after putting stamp of QA approved in green color.",
+                "new": ""
+            },
+            {
+                "old": "A copy of certificate shall be issued to user department.",
+                "new": ""
+            }
+        ],
+        "added_points": [],
+        "removed_points": [
+            "A copy of certificate shall be issued to user department."
+        ]
+    },
+    "**6.0** **ATTACHMENTS**": {
+        "section": "**6.0** **ATTACHMENTS**",
+        "modified_points": [
+            {
+                "old": "**S.No.** **Title of Format** **Format Number**  01.",
+                "new": "**S."
+            },
+            {
+                "old": "Master Instrument List EG003/F01  02.",
+                "new": "No** **Title of Formats** **Format Number**  1 Preventive Maintenance Checklist SE026/F01"
+            },
+            {
+                "old": "Instrument Calibration Planner EG003/F02  03.",
+                "new": ""
+            },
+            {
+                "old": "Instrument out of calibration/ replacement record EG003/F03  04.",
+                "new": ""
+            },
+            {
+                "old": "Instrument Disposal Record EG003/F04  Questionnaire for Preliminary Assessment of  05.",
+                "new": ""
+            },
+            {
+                "old": "EG003/F05  Contract Service Provider  06.",
+                "new": ""
+            },
+            {
+                "old": "Template of Technical Agreement EG003/F06",
+                "new": ""
+            }
+        ],
+        "added_points": [],
+        "removed_points": [
+            "Instrument Calibration Planner EG003/F02  03.",
+            "Instrument out of calibration/ replacement record EG003/F03  04.",
+            "Instrument Disposal Record EG003/F04  Questionnaire for Preliminary Assessment of  05.",
+            "EG003/F05  Contract Service Provider  06.",
+            "Template of Technical Agreement EG003/F06"
+        ]
+    },
+    "**7.0** **REFERENCES**": {
+        "section": "**7.0** **REFERENCES**",
+        "modified_points": [
+            {
+                "old": "SOP/QA/001 SOP on Preparation, Review, Approval, Distribution, Control & Revision of SOPs through Electronic Document Control System (EDCS).",
+                "new": "**7.1** SOP on Preparation, Approval, Distribution, Control, and Review & Revision of SOP\u2019s  (SOP/HA/001)."
+            }
+        ],
+        "added_points": [],
+        "removed_points": []
+    },
+    "**8.0** **ABBREVIATIONS**": {
+        "section": "**8.0** **ABBREVIATIONS**",
+        "modified_points": [
+            {
+                "old": "|ATTACHMENTS|Col2|Col3| |---|---|---| |S.No.",
+                "new": "**Abbreviation** **Description**  SOP Standard Operating Procedure  EDCS Electronic Document Control System  Pvt."
+            },
+            {
+                "old": "Title of Format Format Number||| |01.",
+                "new": "Private  Ltd."
+            },
+            {
+                "old": "Master Instrument List EG003/F01||| |02.",
+                "new": "Limited  HP Himachal Pradesh  SE Sex Hormone Engineering  SFM Solid Flow Monitor Tester  DP Differential Pressure  HEPA High Efficiency Particulate Air  FRL Filter Regulator Lubricator  NA Not Applicable"
+            },
+            {
+                "old": "Instrument Calibration Planner EG003/F02||| |03.",
+                "new": ""
+            },
+            {
+                "old": "Instrument out of calibration/ replacement record EG003/F03||| |04.",
+                "new": ""
+            },
+            {
+                "old": "Instrument Disposal Record EG003/F04||| |Questionnaire for Preliminary Assessment of 05.",
+                "new": ""
+            },
+            {
+                "old": "EG003/F05 Contract Service Provider||| |06.|Template of Technical Agreement|EG003/F06|  |Abbreviation Description|Col2| |---|---| |CLEA Contract analytical lab and external calibration agency|| |EQMS Electronic Quality Management System|| |PM Preventive Maintenance|| |QA|Quality Assurance|   **Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SSSOOOPPP fffooorrr Calibration of Instrument by External Agencies|| |SSSOOOPPP NNNooo...::: SOP/EG/003 Version No.: E1 Page 9 of 23|| |EEEEffffffffeeeeccccttttiiiivvvveeee DDDDaaaatttteeee:::: 20/01/21|Review Date: 20/01/23|  |SOP|Standard Operating Procedure| |---|---|",
+                "new": ""
+            }
+        ],
+        "added_points": [],
+        "removed_points": [
+            "Instrument Calibration Planner EG003/F02||| |03.",
+            "Instrument out of calibration/ replacement record EG003/F03||| |04.",
+            "Instrument Disposal Record EG003/F04||| |Questionnaire for Preliminary Assessment of 05.",
+            "EG003/F05 Contract Service Provider||| |06.|Template of Technical Agreement|EG003/F06|  |Abbreviation Description|Col2| |---|---| |CLEA Contract analytical lab and external calibration agency|| |EQMS Electronic Quality Management System|| |PM Preventive Maintenance|| |QA|Quality Assurance|   **Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SSSOOOPPP fffooorrr Calibration of Instrument by External Agencies|| |SSSOOOPPP NNNooo...::: SOP/EG/003 Version No.: E1 Page 9 of 23|| |EEEEffffffffeeeeccccttttiiiivvvveeee DDDDaaaatttteeee:::: 20/01/21|Review Date: 20/01/23|  |SOP|Standard Operating Procedure| |---|---|"
+        ]
+    },
+    "**9.0** **REVISION HISTORY**": {
+        "section": "**9.0** **REVISION HISTORY**",
+        "modified_points": [
+            {
+                "old": "|REVISION HISTORY|Col2|Col3|Col4| |---|---|---|---| |Revision No.",
+                "new": "**Revision No.** **Effective Date** **Change Control No."
+            },
+            {
+                "old": "Effective Date Change control No.",
+                "new": "Reason of revision**  **Prepared By** **Checked By** **Approved By**  202909 on 17/07/23 13:18:01 203031 on 17/07/23 14:19:24 202468 on 18/07/23 11:31:46  Format No HA001/F01 Printed By: 203339 On: 2023 09 05 14:29:13  |S."
+            },
+            {
+                "old": "Reason of revision|||| |SOP revised to incorporate point number 5.6 to include the 04 11 JAN 2019 GB/CC/EG/18/356 identification and frequency for critical and non-critical instruments.|||| |1.",
+                "new": "No|Title of Formats|Format Number| |---|---|---| |1|Preventive Maintenance Checklist|SE026/F01|  |Abbreviation|Description| |---|---| |SOP|Standard Operating Procedure| |EDCS|Electronic Document Control System| |Pvt.|Private| |Ltd.|Limited| |HP|Himachal Pradesh| |SE|Sex Hormone Engineering| |SFM|Solid Flow Monitor Tester| |DP|Differential Pressure| |HEPA|High Efficiency Particulate Air| |FRL|Filter Regulator Lubricator| |NA|Not Applicable|  |Revision No.|Effective Date|Change Control No.|Reason of revision| |---|---|---|---|  |Prepared By|Checked By|Approved By| |---|---|---| |202909 on 17/07/23 13:18:01|203031 on 17/07/23 14:19:24|202468 on 18/07/23 11:31:46|   -----  |Col1|Standard Operating Procedure|Col3|Col4|Col5| |---|---|---|---|---| ||Originating Department: Engineering|||| |Title: Preventive Maintenance of Fluid Bed Dryer||||| |SOP No.: SOP/SE/026||Version No.: E3||Page 4 of 9| |Effective Date: 19/08/23|||Review Date: 19/08/25||  |E0|01/05/2019|HB/CC/HA/18/319|1."
+            },
+            {
+                "old": "E0 04/04/2019 GB/CC/QA/18/320 2.",
+                "new": "2."
+            },
+            {
+                "old": "Annexures has been removed from SOP due to eDCS software implementation|||| |E1|20/01/21|HB/CC/HA/20/007|1.",
+                "new": "Numbering revised.| |---|---|---|---| |E1|20/06/2019|HB/CC/SE/19/179|1.The SOP has been revised due to addition of Doc Variable in Effective Date."
+            },
+            {
+                "old": "SOP revised to inline the responsibilities, procedure as per the requirement of Contract analytical laboratory and External calibration agency module of EQMS.|   **Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  -----  |Name ID Sr.",
+                "new": "2."
+            },
+            {
+                "old": "No.",
+                "new": "Point No."
+            },
+            {
+                "old": "Name Instrument Calibration Certificate No.",
+                "new": "5.12, 5.15, 5.17, 5.20 & 5.22 have been reframed for better understanding & clarification."
+            },
+            {
+                "old": "Next Calibration Reviewed By ID done on due on (Eng.)|Col2|Col3|Col4|Col5|Col6| |---|---|---|---|---|---| ||||||| ||||||| ||||||| ||||||| ||||||| ||||||| ||||||| ||||||| ||||||| |||||||   -----  -----  -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SOP for Calibration of Instrument by External Agencies.|| |SOP No.: SOP/EG/003 Version No.: E1 Page 14 of 23|| |Effective Date: 20/01/21|Review Date: 20/01/23|   **Questionnaire for Preliminary Assessment of Contract Service Provider**  Name of the Company  Address  State, Zip code:  Country:  Telephone No.:  E-mail ID:  Service(s) Being Offered To Organization: ___________________________________  _______________________________________________________________________________  _____________________________________________________________________________________  Please fill this questionnaire and provide us with your response.",
+                "new": "3.Point No."
+            },
+            {
+                "old": "The response provided by you shall be treated as confidential.",
+                "new": "5.34 added."
+            },
+            {
+                "old": "This questionnaire should be completed by a representative of the Quality Unit.",
+                "new": "4.P.M checklist of Format No."
+            },
+            {
+                "old": "Name:  Position in the company:  Date:  Signature:   **Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SOP for Calibration of Instrument by External Agencies.|| |SOP No.: SOP/EG/003 Version No.: E1 Page 15 of 23|| |Effective Date: 20/01/21|Review Date: 20/01/23|   **Questionnaire for Preliminary Assessment of Contract Service Provider**  |No.",
+                "new": "SE026/F01 has been revised to inline with procedure.| |E2|03/08/2021|HB/CC/SE/21/072|SOP revised as per scheduled revision.| |E3|19/08/23|HB/CC/HA/22/016|\u201cSOP for\u201d removed from SOP Title.|  |Prepared By|Checked By|Approved By| |---|---|---| |202909 on 17/07/23 13:18:01|203031 on 17/07/23 14:19:24|202468 on 18/07/23 11:31:46|   Format No HA001/F01 Printed By: 203339 On: 2023 09 05 14:29:13   -----  |Col1|Standard Operating Procedure|Col3|Col4|Col5| |---|---|---|---|---| ||Originating Department: Engineering|||| |Title: Preventive Maintenance of Fluid Bed Dryer||||| |SOP No.: SOP/SE/026||Version No.: E3||Page 5 of 9| |Effective Date: 19/08/23|||Review Date: 19/08/25||   **PREVENTIVE MAINTENANCE CHECKLIST**  **Name of Equipment: - Fluid Bed Dryer** **Frequency: - Monthly \u00b1 07 Days**  **Equipment I.D No.: -  ____________________** **Date: - _____________________**  **Sr.** **Checked By**  **Checks** **Observation** **Action taken** **Done By** **Checked By** **No.** **(User Dept.)**  Switch off the Power Supply & Hang  1 the display board \u201cPREVENTIVE  **MAINTENANCE\u201d**  Check the bowl gasket for any  2 physical damage & replace it if any  abnormality observed  Check the proper functioning of SFM  3 & rectify it if any abnormality  observed."
+            },
+            {
+                "old": "Description Comments|Col2|Col3| |---|---|---| |Organization||| |1 Name of Contact Person /Telephone No.||| |2 In which year was the company established?||| |3 Is the company a subsidiary of another company?",
+                "new": "Check the proper functioning of inlet  4  and out let pneumatic actuators."
+            },
+            {
+                "old": "If Yes, provide details||| |4 Is the service providing site different from the address on the front page?",
+                "new": "**Prepared By** **Checked By** **Approved By**  202909 on 17/07/23 13:18:01 203031 on 17/07/23 14:19:24 202468 on 18/07/23 11:31:46  Format No HA001/F01 Printed By: 203339 On: 2023 09 05 14:29:13  |Sr."
+            },
+            {
+                "old": "If Yes, provide Name, Address, State, Zip Code and Country||| |5 Can a representative from our site visit your facility and perform a formal on-site audit?||| |6 Provide a list of all the types of services provided by your company.||| |Personnel||| |7 Provide the current organizational chart of the company Total No.",
+                "new": "No.|Checks|Observation|Action taken|Done By|Checked By|Checked By (User Dept.)| |---|---|---|---|---|---|---| |1|Switch off the Power Supply & Hang the display board \u201cPREVENTIVE MAINTENANCE\u201d|||||| |2|Check the bowl gasket for any physical damage & replace it if any abnormality observed|||||| |3|Check the proper functioning of SFM & rectify it if any abnormality observed.|||||| |4|Check the proper functioning of inlet and out let pneumatic actuators.||||||  |Prepared By|Checked By|Approved By| |---|---|---| |202909 on 17/07/23 13:18:01|203031 on 17/07/23 14:19:24|202468 on 18/07/23 11:31:46|   -----  |Col1|Standard Operating Procedure|Col3|Col4|Col5| |---|---|---|---|---| ||Originating Department: Engineering|||| |Title: Preventive Maintenance of Fluid Bed Dryer||||| |SOP No.: SOP/SE/026||Version No.: E3||Page 6 of 9| |Effective Date: 19/08/23|||Review Date: 19/08/25||  |Sr."
+            },
+            {
+                "old": "of Employees engaged in the Organization||| |8 Provide a list of all technical persons along with their qualification, experience and responsibilities||| |9 Do personnel, including supervisors, engaged in the cGxP activities have education, training, and experience, or any combination thereof, to enable them to perform the assigned functions?||| |10 Is there a written Training Program in place?||| |11|Are training records maintained for all employees?",
+                "new": "No.|Checks|Observation|Action taken|Done By|Checked By|Checked By (User Dept.)| |---|---|---|---|---|---|---| |5|Check the motor of exhaust blower for any abnormal noise rectifies it if any abnormality observed.|||||| |6|Check the steam coil, if any choking observed clean it with compressed air.|||||| |7|Check the steam leakages from valve, if there is any leakage found then rectify it by filling the asbestos gland packing in steam valves.|||||| |8|Check the air leakage in ducts of APU & Exhaust Unit & rectify it if any leakage found.|||||| |9|Check the HEPA filters for any physical damage & repair/replace it if any damaged observed.||||||  |Prepared By|Checked By|Approved By| |---|---|---| |202909 on 17/07/23 13:18:01|203031 on 17/07/23 14:19:24|202468 on 18/07/23 11:31:46|   Format No HA001/F01 Printed By: 203339 On: 2023 09 05 14:29:13   -----  |Col1|Standard Operating Procedure|Col3|Col4|Col5| |---|---|---|---|---| ||Originating Department: Engineering|||| |Title: Preventive Maintenance of Fluid Bed Dryer||||| |SOP No.: SOP/SE/026||Version No.: E3||Page 7 of 9| |Effective Date: 19/08/23|||Review Date: 19/08/25||  |Sr."
+            },
+            {
+                "old": "If Yes, how long are these records retained?||   **Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SOP for Calibration of Instrument by External Agencies.|| |SOP No.: SOP/EG/003 Version No.: E1 Page 16 of 23|| |Effective Date: 20/01/21|Review Date: 20/01/23|   **Questionnaire for Preliminary Assessment of Contract Service Provider**  |No.",
+                "new": "No.|Checks|Observation|Action taken|Done By|Checked By|Checked By (User Dept.)| |---|---|---|---|---|---|---| |10|Check the proper functioning of bag shaking cylinder & repair/replace it if any abnormality observed.|||||| |11|Check bag sealing tube for any puncher & repair/replace it if required.|||||| |12|Check the filter of FRL and top up the lube oil in the lubricator if required|||||| |13|Check the trolley wheel for smooth movement & repair/replace if any abnormality observed|||||| |14|Check the overload relay for proper functioning,||||||  |Prepared By|Checked By|Approved By| |---|---|---| |202909 on 17/07/23 13:18:01|203031 on 17/07/23 14:19:24|202468 on 18/07/23 11:31:46|   Format No HA001/F01 Printed By: 203339 On: 2023 09 05 14:29:13   -----  |Col1|Standard Operating Procedure|Col3|Col4|Col5| |---|---|---|---|---| ||Originating Department: Engineering|||| |Title: Preventive Maintenance of Fluid Bed Dryer||||| |SOP No.: SOP/SE/026||Version No.: E3||Page 8 of 9| |Effective Date: 19/08/23|||Review Date: 19/08/25||  |Sr."
+            },
+            {
+                "old": "Description Comments|Col2|Col3| |---|---|---| |12 Is a process for re-training defined?||| |13 Is there a job description available for all personnel?||| |14 Is there a department manager available for all key functions?||| |15 Is a periodic health check-up conducted for your employees?||| |16 Who is primarily responsible for Quality Assurance: Name: Function: Tel Number: E-mail address:||| |Premises and Facilities||| |17 Provide a layout of your facility intended to provide service to organization||| |18 Are adequate power sources available for functioning of the facility?||| |19 Is there a backup system available in case of power failure?||| |20 Is there a ventilation/air conditioning system available in the facility||| |21 Is the lighting adequate?||| |22 Are there access control systems in place for critical places in your facility?||| |23 What is the source of water in your facility?||| |24 Provide a list of Instruments/Equipment presently available in the Facility with their capacities||| |25|Are all critical instruments and ancillary systems qualified through installation, operational and performance qualification procedures?||   **Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SOP for Calibration of Instrument by External Agencies.|| |SOP No.: SOP/EG/003 Version No.: E1 Page 17 of 23|| |Effective Date: 20/01/21|Review Date: 20/01/23|  |No.",
+                "new": "No.|Checks|Observation|Action taken|Done By|Checked By|Checked By (User Dept.)| |---|---|---|---|---|---|---| |15|Clean the electrical control panel and tightness of electrical terminations|||||| |16|Check the proper functioning of interlocks & repair/replace it if required.|||||| |17|Check earthing for properly working & repair/replace it if required.|||||| |18|Switch on the power supply & take trial.|||||| |19|Check the DP across the filters, if DP goes out of limit then clean/replace the filters as per SOP/SE/016.||||||  |Prepared By|Checked By|Approved By| |---|---|---| |202909 on 17/07/23 13:18:01|203031 on 17/07/23 14:19:24|202468 on 18/07/23 11:31:46|   Format No HA001/F01 Printed By: 203339 On: 2023 09 05 14:29:13   -----  |Col1|Standard Operating Procedure|Col3|Col4|Col5| |---|---|---|---|---| ||Originating Department: Engineering|||| |Title: Preventive Maintenance of Fluid Bed Dryer||||| |SOP No.: SOP/SE/026||Version No.: E3||Page 9 of 9| |Effective Date: 19/08/23|||Review Date: 19/08/25||  |Sr."
+            },
+            {
+                "old": "Description Comments|Col2|Col3| |---|---|---| |Instrumentation and Equipment||| |26 Is there a calibration program in place for instruments, measuring/testing apparatus, gauges, and recording devices?||| |27 Do calibration records contain information regarding calibration intervals and tolerances?||| |28 Is calibration performed internally or by an external calibration company?||| |29 Is there a preventive maintenance plan for production machines?||| |30 Are systems in place for maintaining integrity of electronic records?||| |Certifications||| |31 Has the facility been inspected by any national/international authorities?",
+                "new": "No.|Checks|Observation|Action taken|Done By|Checked By|Checked By (User Dept.)| |---|---|---|---|---|---|---| |20|Remove \u201cPREVENTIVE MAINTENANCE\u201d board after completion of preventive maintenance activity & Handover the Equipment to User Department.||||||   **Format No.: SE026/F01**  **Prepared By**  202909 on 17/07/23 13:18:01 203031 on 17/07/23 14:19:24  Format No HA001/F01 Printed By: 203339 On: 2023 09 05 14:29:13  |Prepared By|Checked By|Approved By| |---|---|---| |202909 on 17/07/23 13:18:01|203031 on 17/07/23 14:19:24|202468 on 18/07/23 11:31:46|   -----"
+            },
+            {
+                "old": "If yes Attach Certificates.",
+                "new": ""
+            },
+            {
+                "old": "Provide dates of the last Inspection What was the outcome of the last Inspection?||| |32 Provide a copy of the current cGxP Certificate||| |Procedures & Documentation||| |33 Do you have documented procedures for the preparation, review, approval and issue of procedures?||| |34 Do you perform calibration/validation on site or at your premises?||| |35 Provide a copy of your SOP List/Index||| |36 Provide List of master instruments and their calibration certificates.||| |37|Do you have calibration, Operation and maintenance SOP s for master instruments?",
+                "new": ""
+            },
+            {
+                "old": "If yes Please provide||   **Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SOP for Calibration of Instrument by External Agencies.|| |SOP No.: SOP/EG/003 Version No.: E1 Page 18 of 23|| |Effective Date: 20/01/21|Review Date: 20/01/23|  |No.",
+                "new": ""
+            },
+            {
+                "old": "Description Comments|Col2|Col3| |---|---|---| |38 Do you have ID for master instruments?||| |39 Do you have preventive maintenance schedule or master instruments?",
+                "new": ""
+            },
+            {
+                "old": "If yes please specify the frequency.||| |40 Do you take services from third parties for any cGxP processes?",
+                "new": ""
+            },
+            {
+                "old": "If yes, please give address of the third party and describe the services procured.||| |41 Do you have a system in place for reporting and investigation of deviations from the standard procedures?||| |42 Do you have written procedures for control of changes in your instruments, equipment and quality systems?||| |43 Do you periodically review and update these procedures?",
+                "new": ""
+            },
+            {
+                "old": "If Yes, what is the frequency?||| |44 Is there a system/procedure to notify clients in case of change of specifications or method?||| |45 Are customers informed of any non-conformances, variances, failure investigations, etc.",
+                "new": ""
+            },
+            {
+                "old": "relating to the Testing?",
+                "new": ""
+            },
+            {
+                "old": "What is the timing of such notification?||| |46 Are there written procedures and records available for the cleaning of the areas?||| |47 Are written procedures for performing Quality Control analysis available?||| |48 Is there a procedure for the recording, reporting and storage of raw data?||| |49 Is there a written procedure for investigating out-of- specification (OOS) or suspect results?||| |50|Is there a document retention policy available?||   **Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SOP for Calibration of Instrument by External Agencies.|| |SOP No.: SOP/EG/003 Version No.: E1 Page 19 of 23|| |Effective Date: 20/01/21|Review Date: 20/01/23|  |No.",
+                "new": ""
+            },
+            {
+                "old": "Description Comments|Col2|Col3| |---|---|---| |51 Are notebooks, worksheets and other raw data controlled?||| |52 Who (position in the company) reviews and approves the analytical results?||| |53 Does the facility have: Eye washer/Safety Shower Personnel Protective Equipment like safety goggles, safety gloves, masks, lab coats, foot covers and head covers Fume Hoods Smoke Detectors Fire Extinguishers First Aid Facility||| |54 Do you have a system to protect the confidentiality of subjects related to your Clients?||| |55 Do you have a system of a written Confidentiality Agreement with your clients?||| |56 Do you have necessary and fool proof security and stringent access control for scientific data?||| |57|Do you take written permission from your clients prior to publication of information/data related to them?||   Please return the completed questionnaire and the supporting documentation preferably within _______ (state expected time) after receipt.",
+                "new": ""
+            },
+            {
+                "old": "**Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SOP for Calibration of Instrument by External Agencies.|| |SOP No.: SOP/EG/003 Version No.: E1 Page 20 of 23|| |Effective Date: 20/01/21|Review Date: 20/01/23|   **Questionnaire for Preliminary Assessment of Contract Service Provider**  **Organization Review:**  **Conclusion and recommendations:**  _____________________________________________________________________________________  _____________________________________________________________________________________  _____________________________________________________________________________________  _____________________________________________________________________________________  Satisfactory /     Not Satisfactory  Reviewed by Department Head or Designee Name: ________________ Sign Date ________  **Please enclose List of following documents along with Questionnaire** 1.",
+                "new": ""
+            },
+            {
+                "old": "Organogram (with qualification, experience and job responsibilities of key personnel) 2.",
+                "new": ""
+            },
+            {
+                "old": "Copy of certificates of approval by state authorities or any other approval 3.",
+                "new": ""
+            },
+            {
+                "old": "List of equipments/instruments with make/model no.",
+                "new": ""
+            },
+            {
+                "old": "along with the mention of calibration of critical instruments 4.",
+                "new": ""
+            },
+            {
+                "old": "List of Master/Standard equipments used along with their source.",
+                "new": ""
+            },
+            {
+                "old": "5.",
+                "new": ""
+            },
+            {
+                "old": "List of SOP s 6.",
+                "new": ""
+            },
+            {
+                "old": "List of Clients  **Format No.: EG003/F05**   **Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SOP for Calibration of Instrument by External Agencies.|| |SOP No.: SOP/EG/003 Version No.: E1 Page 21 of 23|| |Effective Date: 20/01/21|Review Date: 20/01/23|   # TECHNICAL AGREEMENT   [SERVICES PROVIDED (EXAMPLE CALIBRATION,  TEMPERATURE MAPPING) ON CONTRACT BASIS]  SPECIFICATION OF   RESPONSIBILITIES   BETWEEN  **CONTRACT GIVEN BY                         CONTRACT ACCEPTED BY**  Name and address Name and address  __________________________ ___________________________  **Engineering Sign                                 Engineering Sign** **(CONTRACT GIVEN BY)                        (CONTRACT ACCEPTED BY)**  __________________________ ___________________________  **QA Sign                                         QA Sign** **(CONTRACT GIVEN BY)** **(CONTRACT ACCEPTED BY)**  **DATE:** **DATE:**  Version No.",
+                "new": ""
+            },
+            {
+                "old": "- [ ] Page No.",
+                "new": ""
+            },
+            {
+                "old": "[ ]   **Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SOP for Calibration of Instrument by External Agencies.|| |SOP No.: SOP/EG/003 Version No.: E1 Page 22 of 23|| |Effective Date: 20/01/21|Review Date: 20/01/23|   This contract specifies the responsibilities of Contract Acceptor relating to the Services Provided example  (Calibration, Temperature Mapping & Compressed Air Validation) at Contract Giver (Acme Formulation  Pvt Ltd., Nalagarh, H.P.) This contract is valid for ____ years.",
+                "new": ""
+            }
+        ],
+        "added_points": [],
+        "removed_points": [
+            "If yes Attach Certificates.",
+            "Provide dates of the last Inspection What was the outcome of the last Inspection?||| |32 Provide a copy of the current cGxP Certificate||| |Procedures & Documentation||| |33 Do you have documented procedures for the preparation, review, approval and issue of procedures?||| |34 Do you perform calibration/validation on site or at your premises?||| |35 Provide a copy of your SOP List/Index||| |36 Provide List of master instruments and their calibration certificates.||| |37|Do you have calibration, Operation and maintenance SOP s for master instruments?",
+            "If yes Please provide||   **Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SOP for Calibration of Instrument by External Agencies.|| |SOP No.: SOP/EG/003 Version No.: E1 Page 18 of 23|| |Effective Date: 20/01/21|Review Date: 20/01/23|  |No.",
+            "Description Comments|Col2|Col3| |---|---|---| |38 Do you have ID for master instruments?||| |39 Do you have preventive maintenance schedule or master instruments?",
+            "If yes please specify the frequency.||| |40 Do you take services from third parties for any cGxP processes?",
+            "If yes, please give address of the third party and describe the services procured.||| |41 Do you have a system in place for reporting and investigation of deviations from the standard procedures?||| |42 Do you have written procedures for control of changes in your instruments, equipment and quality systems?||| |43 Do you periodically review and update these procedures?",
+            "If Yes, what is the frequency?||| |44 Is there a system/procedure to notify clients in case of change of specifications or method?||| |45 Are customers informed of any non-conformances, variances, failure investigations, etc.",
+            "relating to the Testing?",
+            "What is the timing of such notification?||| |46 Are there written procedures and records available for the cleaning of the areas?||| |47 Are written procedures for performing Quality Control analysis available?||| |48 Is there a procedure for the recording, reporting and storage of raw data?||| |49 Is there a written procedure for investigating out-of- specification (OOS) or suspect results?||| |50|Is there a document retention policy available?||   **Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SOP for Calibration of Instrument by External Agencies.|| |SOP No.: SOP/EG/003 Version No.: E1 Page 19 of 23|| |Effective Date: 20/01/21|Review Date: 20/01/23|  |No.",
+            "Description Comments|Col2|Col3| |---|---|---| |51 Are notebooks, worksheets and other raw data controlled?||| |52 Who (position in the company) reviews and approves the analytical results?||| |53 Does the facility have: Eye washer/Safety Shower Personnel Protective Equipment like safety goggles, safety gloves, masks, lab coats, foot covers and head covers Fume Hoods Smoke Detectors Fire Extinguishers First Aid Facility||| |54 Do you have a system to protect the confidentiality of subjects related to your Clients?||| |55 Do you have a system of a written Confidentiality Agreement with your clients?||| |56 Do you have necessary and fool proof security and stringent access control for scientific data?||| |57|Do you take written permission from your clients prior to publication of information/data related to them?||   Please return the completed questionnaire and the supporting documentation preferably within _______ (state expected time) after receipt.",
+            "**Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SOP for Calibration of Instrument by External Agencies.|| |SOP No.: SOP/EG/003 Version No.: E1 Page 20 of 23|| |Effective Date: 20/01/21|Review Date: 20/01/23|   **Questionnaire for Preliminary Assessment of Contract Service Provider**  **Organization Review:**  **Conclusion and recommendations:**  _____________________________________________________________________________________  _____________________________________________________________________________________  _____________________________________________________________________________________  _____________________________________________________________________________________  Satisfactory /     Not Satisfactory  Reviewed by Department Head or Designee Name: ________________ Sign Date ________  **Please enclose List of following documents along with Questionnaire** 1.",
+            "Organogram (with qualification, experience and job responsibilities of key personnel) 2.",
+            "Copy of certificates of approval by state authorities or any other approval 3.",
+            "List of equipments/instruments with make/model no.",
+            "along with the mention of calibration of critical instruments 4.",
+            "List of Master/Standard equipments used along with their source.",
+            "5.",
+            "List of SOP s 6.",
+            "List of Clients  **Format No.: EG003/F05**   **Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SOP for Calibration of Instrument by External Agencies.|| |SOP No.: SOP/EG/003 Version No.: E1 Page 21 of 23|| |Effective Date: 20/01/21|Review Date: 20/01/23|   # TECHNICAL AGREEMENT   [SERVICES PROVIDED (EXAMPLE CALIBRATION,  TEMPERATURE MAPPING) ON CONTRACT BASIS]  SPECIFICATION OF   RESPONSIBILITIES   BETWEEN  **CONTRACT GIVEN BY                         CONTRACT ACCEPTED BY**  Name and address Name and address  __________________________ ___________________________  **Engineering Sign                                 Engineering Sign** **(CONTRACT GIVEN BY)                        (CONTRACT ACCEPTED BY)**  __________________________ ___________________________  **QA Sign                                         QA Sign** **(CONTRACT GIVEN BY)** **(CONTRACT ACCEPTED BY)**  **DATE:** **DATE:**  Version No.",
+            "- [ ] Page No.",
+            "[ ]   **Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----  **,** **g** **(** **)**  |Standard Operating Procedure Originating Department: Engineering|Col2| |---|---| |Title: SOP for Calibration of Instrument by External Agencies.|| |SOP No.: SOP/EG/003 Version No.: E1 Page 22 of 23|| |Effective Date: 20/01/21|Review Date: 20/01/23|   This contract specifies the responsibilities of Contract Acceptor relating to the Services Provided example  (Calibration, Temperature Mapping & Compressed Air Validation) at Contract Giver (Acme Formulation  Pvt Ltd., Nalagarh, H.P.) This contract is valid for ____ years."
+        ]
+    },
+    "**4.0** **REVISION HISTORY**": {
+        "section": "**4.0** **REVISION HISTORY**",
+        "modified_points": [
+            {
+                "old": "**Version No.** **Description of Change** **Effective Date**  **Format No.: EG003/F06**  |Name Position Tel.",
+                "new": ""
+            },
+            {
+                "old": "No.",
+                "new": ""
+            },
+            {
+                "old": "Email ID.|Col2|Col3|Col4| |---|---|---|---| ||||| |||||  |Name Position Tel.",
+                "new": ""
+            },
+            {
+                "old": "No.",
+                "new": ""
+            },
+            {
+                "old": "Email ID.|Col2|Col3|Col4| |---|---|---|---| ||||| |||||  |Version No.",
+                "new": ""
+            },
+            {
+                "old": "Description of Change Effective Date|Col2|Col3| |---|---|---| ||||   **Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----",
+                "new": ""
+            }
+        ],
+        "added_points": [],
+        "removed_points": [
+            "No.",
+            "Email ID.|Col2|Col3|Col4| |---|---|---|---| ||||| |||||  |Name Position Tel.",
+            "No.",
+            "Email ID.|Col2|Col3|Col4| |---|---|---|---| ||||| |||||  |Version No.",
+            "Description of Change Effective Date|Col2|Col3| |---|---|---| ||||   **Prepared By** **Checked By** **Approved By**   202617 on 06/01/21 17:38:32 202718 on 11/01/21 10:29:14 202437 on 11/01/21 10:41:47   -----"
+        ]
+    }
+}
