@@ -69,9 +69,9 @@ department_keywords = {
 class CategorizeRequest(BaseModel):
     main_folder: str
 
-destination_base = r"E:\APQR\Sarthak\frontend\src\assets\PDFs"
-heatmap_base = r"E:\APQR\Sarthak\frontend\src\assets\Heatmaps"
-HIGHLIGHTED_DIR = r"E:\APQR\Sarthak\frontend\src\assets\highlighted_pdfs"
+destination_base = r""
+heatmap_base = r""
+HIGHLIGHTED_DIR = r""
 
 def generate_tree(directory, level=1, max_level=2):
     dir_tree = {}
